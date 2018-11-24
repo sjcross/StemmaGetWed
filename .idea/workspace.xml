@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="762b8c5b-f72c-4784-966b-9b1b95b682cc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/js/coreFunctions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/savethedate.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulpfile.babel.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.babel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/colour.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/metro.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/metro.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/svg.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/file_content.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/file_content.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/metro.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/metro.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/savethedate.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/savethedate.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,50 +22,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="savethedate.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="savethedate.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/savethedate.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-313">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="218">
+              <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="site.webmanifest" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/site.webmanifest">
+      <file leaf-file-name="metro.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/js/metro.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="metro.min.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/metro.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5542">
-              <caret line="6" column="324548" selection-start-line="6" selection-start-column="324540" selection-end-line="6" selection-end-column="324548" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="439">
+              <caret line="21100" lean-forward="true" selection-start-line="21100" selection-end-line="21100" />
             </state>
           </provider>
         </entry>
@@ -77,8 +43,17 @@
       <file leaf-file-name="coreFunctions.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/js/coreFunctions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="867">
-              <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+            <state relative-caret-position="660">
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plugins.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/plugins.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -100,15 +75,32 @@
       <find>data-cover</find>
       <find>tilt</find>
       <find>click</find>
-      <find>left</find>
       <find>cantr</find>
       <find>Tile</find>
-      <find>cantrans</find>
-      <find>side = 'left</find>
+      <find />
       <find>data-role</find>
       <find>width</find>
+      <find>create</find>
+      <find>createevent</find>
+      <find>bottom</find>
+      <find>right</find>
+      <find>imtile</find>
+      <find>imtil</find>
+      <find>data-effec</find>
+      <find>data-effect</find>
+      <find>cantrans</find>
+      <find>cantransf</find>
+      <find>data-size</find>
+      <find>left</find>
+      <find>effect</find>
+      <find>data-</find>
+      <find>data-&quot;</find>
       <find>tile</find>
+      <find>hover</find>
     </findStrings>
+    <replaceStrings>
+      <replace>right</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -124,30 +116,29 @@
         <option value="$PROJECT_DIR$/src/js/coreFunctions" />
         <option value="$PROJECT_DIR$/src/js/colour.js" />
         <option value="$PROJECT_DIR$/src/js/svg.js" />
-        <option value="$PROJECT_DIR$/src/js/coreFunctions.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/index.css" />
-        <option value="$PROJECT_DIR$/src/js/metro.js" />
         <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/src/site.webmanifest" />
+        <option value="$PROJECT_DIR$/src/js/coreFunctions.js" />
+        <option value="$PROJECT_DIR$/src/js/redefineTile.js" />
+        <option value="$PROJECT_DIR$/src/js/metro-mod.js" />
+        <option value="$PROJECT_DIR$/src/js/metro.min.js" />
+        <option value="$PROJECT_DIR$/src/savethedate.html" />
+        <option value="$PROJECT_DIR$/src/js/metro.js" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
-    <package-json value="$PROJECT_DIR$/package.json" />
-  </component>
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
+    <option name="x" value="-10" />
     <option name="width" value="930" />
-    <option name="height" value="1089" />
+    <option name="height" value="1090" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -174,26 +165,6 @@
               <item name="Wedding" type="b2602c69:ProjectViewProjectNode" />
               <item name="Wedding" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Wedding" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Wedding" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="schemes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Wedding" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Wedding" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="third-party" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Wedding" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Wedding" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -204,15 +175,7 @@
             </path>
             <path>
               <item name="Wedding" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Wedding" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mif" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Wedding" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Wedding" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="svg" type="462c0819:PsiDirectoryNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
           <select />
@@ -251,16 +214,19 @@
   </component>
   <component name="RunManager" selected="JavaScript Debug.savethedate.html">
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="file://$PROJECT_DIR$/src/index.html" />
+    <configuration name="savethedate.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://cpanel.freehosting.com/savethedate.html" />
     <configuration name="savethedate.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="file://$PROJECT_DIR$/src/savethedate.html" />
     <configuration name="metro.js" type="NodeJSConfigurationType" factoryName="Node.js" nameIsGenerated="true" path-to-js-file="metro.js" working-dir="$PROJECT_DIR$/src/js" />
     <list>
       <item itemvalue="Node.js.metro.js" />
       <item itemvalue="JavaScript Debug.index.html" />
       <item itemvalue="JavaScript Debug.savethedate.html" />
+      <item itemvalue="JavaScript Debug.savethedate.html (1)" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.savethedate.html" />
+        <item itemvalue="JavaScript Debug.savethedate.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -286,27 +252,30 @@
       <workItem from="1542354428489" duration="6372000" />
       <workItem from="1542532920454" duration="5931000" />
       <workItem from="1543064776701" duration="268000" />
+      <workItem from="1543066728727" duration="6954000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36848000" />
+    <option name="totallyTimeSpent" value="43810000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1476" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" auto_hide="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37072504" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5006784" side_tool="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32909784" />
+      <window_info anchor="bottom" auto_hide="true" id="Run" order="2" weight="0.32909784" />
       <window_info id="npm" order="2" side_tool="true" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49864316" weight="0.32941177" />
+      <window_info auto_hide="true" content_ui="combo" id="Project" order="0" weight="0.17920657" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.249658" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32909784" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" auto_hide="true" id="Debug" order="3" weight="0.19695045" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -314,7 +283,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="File Transfer" order="8" sideWeight="0.49932158" visible="true" weight="0.32909784" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32909784" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,6 +292,98 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/js/coreFunctions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/metro.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5542">
+          <caret line="6" column="324548" selection-start-line="6" selection-start-column="324540" selection-end-line="6" selection-end-column="324548" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mif/metro.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/metro.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="21087" column="12" lean-forward="true" selection-start-line="21087" selection-start-column="12" selection-end-line="21087" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/site.webmanifest">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/jquery-3.3.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="1" column="2235" selection-start-line="1" selection-start-column="2235" selection-end-line="1" selection-end-column="2235" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="67" column="4" lean-forward="true" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/savethedate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/metro-dist/js/metro.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/metro-dist/js/metro.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="9077" column="16" selection-start-line="9077" selection-start-column="16" selection-end-line="9077" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/savethedate.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -342,9 +402,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5610">
           <caret line="6" column="324548" selection-start-line="6" selection-start-column="324540" selection-end-line="6" selection-end-column="324548" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -485,23 +542,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/coreFunctions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/metro.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5542">
-          <caret line="6" column="324548" selection-start-line="6" selection-start-column="324540" selection-end-line="6" selection-end-column="324548" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/mif/metro.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
@@ -523,32 +563,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/plugins.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/metro.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="21087" column="12" lean-forward="true" selection-start-line="21087" selection-start-column="12" selection-end-line="21087" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/icon.png">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/site.webmanifest">
       <provider selected="true" editor-type-id="text-editor">
@@ -557,10 +577,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/coreFunctions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/redefineTile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="21104" column="14" selection-start-line="21104" selection-start-column="14" selection-end-line="21104" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/metro.min.js.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16745">
+          <caret column="3117" selection-start-column="3117" selection-end-column="3117" />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/metro-mod.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="389304" selection-start-column="389304" selection-end-column="389304" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/metro.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret column="212798" lean-forward="true" selection-start-column="212798" selection-end-column="212798" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/savethedate.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-313">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="218">
+          <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/metro.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="21100" lean-forward="true" selection-start-line="21100" selection-end-line="21100" />
         </state>
       </provider>
     </entry>
