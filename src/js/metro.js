@@ -10,7 +10,7 @@
     } else {
         factory( jQuery );
     }
-}(function( jQuery ) { 
+}(function( jQuery ) {
 'use strict';
 
 var $ = jQuery;
@@ -160,7 +160,7 @@ var Metro = {
         ICONS: "icons",
         ICONS_MEDIUM: "icons-medium",
         ICONS_LARGE: "icons-large",
-        TILES: "tiles",
+        // TILES: "tiles",
         TABLE: "table"
     },
 
@@ -2264,7 +2264,7 @@ var Locales = {
             "reset": "Reset"
         }
     },
-    
+
     'cn-ZH': {
         "calendar": {
             "months": [
@@ -2301,8 +2301,8 @@ var Locales = {
             "reset": "重啟"
         }
     },
-    
-    
+
+
     'de-DE': {
         "calendar": {
             "months": [
