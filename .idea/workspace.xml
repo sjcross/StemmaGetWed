@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="762b8c5b-f72c-4784-966b-9b1b95b682cc" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/metro.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/metro.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/metro.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/metro.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/savethedate.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/savethedate.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,8 +20,8 @@
       <file leaf-file-name="savethedate.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/savethedate.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+            <state relative-caret-position="728">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
             </state>
           </provider>
         </entry>
@@ -34,8 +29,8 @@
       <file leaf-file-name="metro.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/js/metro.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="21100" lean-forward="true" selection-start-line="21100" selection-end-line="21100" />
+            <state relative-caret-position="17">
+              <caret line="21262" column="23" lean-forward="true" selection-start-line="21262" selection-start-column="23" selection-end-line="21291" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -43,7 +38,7 @@
       <file leaf-file-name="coreFunctions.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/js/coreFunctions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
+            <state relative-caret-position="1139">
               <caret line="67" selection-start-line="67" selection-end-line="67" />
             </state>
           </provider>
@@ -70,14 +65,12 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>cyan</find>
-      <find>select</find>
       <find>data-cover</find>
       <find>tilt</find>
       <find>click</find>
       <find>cantr</find>
       <find>Tile</find>
-      <find />
+      <find>side = 'left</find>
       <find>data-role</find>
       <find>width</find>
       <find>create</find>
@@ -96,7 +89,12 @@
       <find>data-</find>
       <find>data-&quot;</find>
       <find>tile</find>
+      <find>inger</find>
+      <find>pointer</find>
       <find>hover</find>
+      <find>button</find>
+      <find>var Button</find>
+      <find>imagetil</find>
     </findStrings>
     <replaceStrings>
       <replace>right</replace>
@@ -253,29 +251,30 @@
       <workItem from="1542532920454" duration="5931000" />
       <workItem from="1543064776701" duration="268000" />
       <workItem from="1543066728727" duration="6954000" />
+      <workItem from="1543259202126" duration="546000" />
+      <workItem from="1545587936157" duration="237000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43810000" />
+    <option name="totallyTimeSpent" value="46608000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1476" height="878" extended-state="6" />
+    <frame x="-7" y="-7" width="1464" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info auto_hide="true" content_ui="combo" id="Project" order="0" weight="0.17920657" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5006784" side_tool="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" auto_hide="true" id="Run" order="2" weight="0.32909784" />
-      <window_info id="npm" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49864316" weight="0.32941177" />
-      <window_info auto_hide="true" content_ui="combo" id="Project" order="0" weight="0.17920657" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.249658" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32909784" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49864316" weight="0.32941177" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" auto_hide="true" id="Debug" order="3" weight="0.19695045" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.249658" />
+      <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -283,6 +282,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="File Transfer" order="8" sideWeight="0.49932158" visible="true" weight="0.32909784" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32909784" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,6 +292,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/js/metro.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="103" column="31" lean-forward="true" selection-start-line="103" selection-start-column="31" selection-end-line="103" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/js/coreFunctions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="867">
@@ -299,13 +306,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/metro.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5542">
-          <caret line="6" column="324548" selection-start-line="6" selection-start-column="324540" selection-end-line="6" selection-end-column="324548" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/metro.min.js" />
     <entry file="file://$PROJECT_DIR$/src/mif/metro.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
@@ -344,13 +345,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="67" column="4" lean-forward="true" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json" />
     <entry file="file://$PROJECT_DIR$/src/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -365,25 +360,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/metro-dist/js/metro.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/metro-dist/js/metro.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="9077" column="16" selection-start-line="9077" selection-start-column="16" selection-end-line="9077" selection-end-column="16" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/metro-dist/js/metro.min.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/metro-dist/js/metro.js" />
     <entry file="file://$PROJECT_DIR$/src/savethedate.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -398,13 +376,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/metro.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5610">
-          <caret line="6" column="324548" selection-start-line="6" selection-start-column="324540" selection-end-line="6" selection-end-column="324548" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/metro.min.js" />
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -556,13 +528,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json" />
     <entry file="file://$PROJECT_DIR$/src/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -579,7 +545,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/coreFunctions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
+        <state relative-caret-position="1139">
           <caret line="67" selection-start-line="67" selection-end-line="67" />
         </state>
       </provider>
@@ -591,46 +557,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/redefineTile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="21104" column="14" selection-start-line="21104" selection-start-column="14" selection-end-line="21104" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/metro.min.js.map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16745">
-          <caret column="3117" selection-start-column="3117" selection-end-column="3117" />
-        </state>
-      </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/metro-mod.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="389304" selection-start-column="389304" selection-end-column="389304" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/metro.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret column="212798" lean-forward="true" selection-start-column="212798" selection-end-column="212798" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/redefineTile.js" />
+    <entry file="file://$PROJECT_DIR$/src/js/metro-mod.min.js" />
+    <entry file="file://$PROJECT_DIR$/src/js/metro.min.js" />
     <entry file="file://$PROJECT_DIR$/src/savethedate.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        <state relative-caret-position="728">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/metro.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="21100" lean-forward="true" selection-start-line="21100" selection-end-line="21100" />
+        <state relative-caret-position="17">
+          <caret line="21262" column="23" lean-forward="true" selection-start-line="21262" selection-start-column="23" selection-end-line="21291" selection-end-column="9" />
         </state>
       </provider>
     </entry>
