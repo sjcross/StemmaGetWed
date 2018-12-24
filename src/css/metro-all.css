@@ -30506,7 +30506,7 @@ video:-webkit-full-screen {
   height: 70px;
 }
 
-/*.static-tile-medium,*/
+.static-tile-medium,
 .tile-medium {
   width: 150px;
   height: 150px;
@@ -30530,11 +30530,11 @@ video:-webkit-full-screen {
   height: 44px;
 }
 
-/*.static-tile-small .icon,*/
-/*.static-tile-medium .icon,*/
-/*.static-tile-wide .icon,*/
-/*.static-tile-large .icon,*/
-/*.static-tile-app .icon,*/
+.static-tile-small .icon,
+.static-tile-medium .icon,
+.static-tile-wide .icon,
+.static-tile-large .icon,
+.static-tile-app .icon,
 .tile-small .icon,
 .tile-medium .icon,
 .tile-wide .icon,
@@ -30553,11 +30553,11 @@ video:-webkit-full-screen {
 }
 
 
-/*.static-tile-small .branding-bar,*/
-/*.static-tile-medium .branding-bar,*/
-/*.static-tile-wide .branding-bar,*/
-/*.static-tile-large .branding-bar,*/
-/*.static-tile-app .branding-bar,*/
+.static-tile-small .branding-bar,
+.static-tile-medium .branding-bar,
+.static-tile-wide .branding-bar,
+.static-tile-large .branding-bar,
+.static-tile-app .branding-bar,
 .tile-small .branding-bar,
 .tile-medium .branding-bar,
 .tile-wide .branding-bar,
@@ -30579,16 +30579,16 @@ video:-webkit-full-screen {
 }
 
 
-/*.static-tile-small .badge-top,*/
-/*.static-tile-medium .badge-top,*/
-/*.static-tile-wide .badge-top,*/
-/*.static-tile-large .badge-top,*/
-/*.static-tile-app .badge-top,*/
-/*.static-tile-small .badge-bottom,*/
-/*.static-tile-medium .badge-bottom,*/
-/*.static-tile-wide .badge-bottom,*/
-/*.static-tile-large .badge-bottom,*/
-/*.static-tile-app .badge-bottom*/
+.static-tile-small .badge-top,
+.static-tile-medium .badge-top,
+.static-tile-wide .badge-top,
+.static-tile-large .badge-top,
+.static-tile-app .badge-top,
+.static-tile-small .badge-bottom,
+.static-tile-medium .badge-bottom,
+.static-tile-wide .badge-bottom,
+.static-tile-large .badge-bottom,
+.static-tile-app .badge-bottom
 .tile-small .badge-top,
 .tile-medium .badge-top,
 .tile-wide .badge-top,
@@ -30835,6 +30835,7 @@ video:-webkit-full-screen {
   grid-column: span 4;
   grid-row: span 2;
 }
+.tiles-grid .static-tile-large,
 .tiles-grid .tile-large {
   grid-column: span 4;
   grid-row: span 4;

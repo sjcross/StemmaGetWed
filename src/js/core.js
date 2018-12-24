@@ -14,6 +14,7 @@ function shuffle(array) {
   }
 
   return array;
+
 }
 
 function getColour(hue,saturation,lightness) {
