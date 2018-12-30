@@ -30457,7 +30457,6 @@ video:-webkit-full-screen {
   margin-top: 1rem;
 }
 
-
 .tile-small,
 .tile-medium,
 .tile-wide,
@@ -30588,7 +30587,7 @@ video:-webkit-full-screen {
 .static-tile-medium .badge-bottom,
 .static-tile-wide .badge-bottom,
 .static-tile-large .badge-bottom,
-.static-tile-app .badge-bottom
+.static-tile-app .badge-bottom,
 .tile-small .badge-top,
 .tile-medium .badge-top,
 .tile-wide .badge-top,
@@ -30613,7 +30612,7 @@ video:-webkit-full-screen {
 .static-tile-medium .badge-bottom,
 .static-tile-wide .badge-bottom,
 .static-tile-large .badge-bottom,
-.static-tile-app .badge-bottom
+.static-tile-app .badge-bottom,
 .tile-small .badge-bottom,
 .tile-medium .badge-bottom,
 .tile-wide .badge-bottom,
@@ -30628,7 +30627,7 @@ video:-webkit-full-screen {
 .static-tile-medium .badge-top,
 .static-tile-wide .badge-top,
 .static-tile-large .badge-top,
-.static-tile-app .badge-top
+.static-tile-app .badge-top,
 .tile-small .badge-top,
 .tile-medium .badge-top,
 .tile-wide .badge-top,

@@ -1,0 +1,14 @@
+.start-screen {
+  margin: auto;
+}
+
+.whole-group {
+  max-width: 800px;
+  height: auto;
+  top: 10px;
+  margin: auto;
+}
+
+.svg g path {
+  fill: hsl(225,60%,20%);
+}

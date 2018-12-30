@@ -1,23 +1,64 @@
-var baseHue = 225;
-var baseSaturation = 60;
 
-// Change plain tile colour
-var elements = document.getElementsByClassName("plain-tile");
-for (var i=0;i<elements.length;i++) {
-  elements[i].setAttribute("style","background-color: "+getColour(baseHue,baseSaturation,(50+Math.random()*40)));
-}
+$.StartScreen = function(){
+  var plugin = this;
+  var width = (window.innerWidth > 0) ? window.innerWidth : screen.width;
 
-// Change plain tile colour
-var elements = document.getElementsByClassName("text-tile");
-for (var i=0;i<elements.length;i++) {
-  elements[i].setAttribute("style","background-color: "+getColour(baseHue,baseSaturation,(70+Math.random()*20)));
-}
+  plugin.init = function(){
+    setTilesAreaSize();
+    if (width > Metro.media_sizes.LD) {
+      addMouseWheel();
+      $(".start-screen").css({
+        overflow: "auto"
+      })
+    }
+  };
 
-// Randomly set tile images
-var folder = "../img/256_tiles/";
-var tileNames = shuffle(["Tile1.png","Tile2.png","Tile3.png"]);
+  var setTilesAreaSize = function(){
+    var groups = $(".tiles-group");
+    var tileAreaWidth = 80;
+    $.each(groups, function(i, t){
+      if (width <= Metro.media_sizes.LD) {
+        tileAreaWidth = width;
+      } else {
+        tileAreaWidth += $(t).outerWidth();
+      }
+    });
+    $(".tiles-area").css({
+      width: tileAreaWidth
+    });
+  };
 
-var elements = document.getElementsByClassName("image-tile");
-for (var i=0;i<elements.length;i++) {
-  elements[i].setAttribute("data-cover",folder+tileNames[i]);
-}
+  var addMouseWheel = function (){
+    $("body").mousewheel(function(event, delta, deltaX, deltaY){
+      var page = $(".start-screen");
+      var scroll_value = delta * 50;
+      console.log(scroll_value);
+      page.scrollDown(page.scrollDown() - scroll_value);
+      return false;
+    });
+  };
+
+  plugin.init();
+};
+
+$.StartScreen();
+
+$.each($('[class*=tile-]'), function(){
+    var tile = $(this);
+    setTimeout(function(){
+        tile.css({
+            opacity: 1,
+            "transform": "scale(1)",
+            "transition": ".3s"
+        }).css("transform", false);
+
+    }, Math.floor(Math.random()*500));
+});
+
+$(".tiles-group").animate({
+    left: 0
+});
+
+$(window).on(Metro.events.resize + "-start-screen-resize", function(){
+  $.StartScreen();
+});
