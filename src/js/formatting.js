@@ -14,7 +14,7 @@ for (var i=0;i<elements.length;i++) {
 }
 
 // Randomly set tile images
-var folder = "img/256_tiles/";
+var folder = "../../img/256_tiles/";
 var tileNames = shuffle(["Tile1.png","Tile2.png","Tile3.png"]);
 
 var elements = document.getElementsByClassName("image-tile");
