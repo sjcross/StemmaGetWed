@@ -10,6 +10,6 @@
   margin: auto;
 }
 
-/*.svg g path {*/
-  /*fill: hsl(225,60%,20%);*/
-/*}*/
+.svg g {
+  fill: hsl(225,60%,20%);
+}
