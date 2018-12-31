@@ -1,5 +1,6 @@
 .start-screen {
   margin: auto;
+  overflow: auto;
 }
 
 .whole-group {
@@ -9,6 +10,6 @@
   margin: auto;
 }
 
-.svg g path {
-  fill: hsl(225,60%,20%);
-}
+/*.svg g path {*/
+  /*fill: hsl(225,60%,20%);*/
+/*}*/
