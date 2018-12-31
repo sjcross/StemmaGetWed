@@ -1,5 +1,6 @@
-const baseHue = 225;
-const baseSaturation = 60;
+const baseHue = 202;
+const baseSaturation = 51;
+
 
 // Change plain tile colour
 function changeTileColour(baseHue, baseSaturation) {
@@ -16,8 +17,8 @@ function changeTileColour(baseHue, baseSaturation) {
 
 // Randomly set tile images
 function randomiseTileImages() {
-  const folder = "../../img/256_tiles/";
-  const tileNames = shuffle(["Tile1.png", "Tile2.png", "Tile3.png"], "Tile4.png");
+  const folder = "../../img/200_tiles/";
+  const tileNames = shuffle(["Tile1.png", "Tile2.png", "Tile3.png", "Tile4.png"]);
 
   const elements = document.getElementsByClassName("image-tile");
   for (var i = 0; i < elements.length; i++) {
