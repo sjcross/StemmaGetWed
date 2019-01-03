@@ -18,11 +18,12 @@ function changeTileColour(baseHue, baseSaturation) {
 // Randomly set tile images
 function randomiseTileImages() {
   const folder = "../../img/200_tiles/";
-  const tileNames = shuffle(["Tile1.png", "Tile2.png", "Tile3.png", "Tile4.png", "Tile5.png"]);
+  const tileNames = ["Tile1.png", "Tile2.png", "Tile3.png"];
 
   const elements = document.getElementsByClassName("image-tile");
   for (var i = 0; i < elements.length; i++) {
-    elements[i].setAttribute("data-cover", folder + tileNames[i]);
+    var idx = Math.floor(Math.random()*(tileNames.length));
+    elements[i].setAttribute("data-cover", folder + tileNames[idx]);
   }
 }
 

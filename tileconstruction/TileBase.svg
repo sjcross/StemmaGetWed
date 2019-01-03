@@ -53,7 +53,7 @@
        oposite_fuse="false" />
     <inkscape:path-effect
        effect="copy_rotate"
-       starting_point="151.37411,148.49969"
+       starting_point="111.13979,148.49969"
        origin="105,148.49969"
        id="path-effect73"
        is_visible="true"
@@ -136,9 +136,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="422.32027"
-     inkscape:cy="565.58533"
+     inkscape:zoom="1.4"
+     inkscape:cx="562.38067"
+     inkscape:cy="494.54633"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -155,7 +155,8 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:bbox-paths="true" />
+     inkscape:bbox-paths="true"
+     inkscape:object-paths="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -164,7 +165,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -211,5 +212,33 @@
        d="m 105,103.89881 v 89.20238"
        id="path975"
        inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#317297;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect849"
+       width="7.4423075"
+       height="7.4423075"
+       x="42.378777"
+       y="88.793724" />
+    <rect
+       style="opacity:1;fill:#6dacd0;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect849-1"
+       width="7.4423075"
+       height="7.4423075"
+       x="49.821083"
+       y="88.793724" />
+    <rect
+       style="opacity:1;fill:#cae0ee;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect849-4"
+       width="7.4423075"
+       height="7.4423075"
+       x="57.263393"
+       y="88.793724" />
+    <rect
+       style="opacity:1;fill:#d0ba6d;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect849-7"
+       width="7.4423075"
+       height="7.4423075"
+       x="64.705704"
+       y="88.793724" />
   </g>
 </svg>
