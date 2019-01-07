@@ -18,7 +18,7 @@ function changeTileColour(baseHue, baseSaturation) {
 // Randomly set tile images
 function randomiseTileImages() {
   const folder = "../../img/200_tiles/";
-  const tileNames = shuffle(["Tile1.png", "Tile2.png", "Tile3.png", "Tile4.png", "Tile5.png", "Tile6.png"]);
+  const tileNames = shuffle(["Tile1.png", "Tile2.png", "Tile4.png", "Tile5.png", "Tile6.png", "Tile7.png", "Tile8.png"]);
 
   const elements = document.getElementsByClassName("image-tile");
   for (var i = 0; i < elements.length; i++) {
@@ -27,5 +27,23 @@ function randomiseTileImages() {
   }
 }
 
+// Randomly set tile images
+function randomisePlainTileImages() {
+  const folder = "../../img/200_tiles/";
+  const tileNames = ["TilePlain1.png", "TilePlain2.png", "TilePlain3.png", "TilePlain4.png", "TilePlain5.png", "TilePlain6.png"];
+
+  var elements = document.getElementsByClassName("plain-tile");
+  for (var i = 0; i < elements.length; i++) {
+    var idx = Math.floor(Math.random()*(tileNames.length));
+    elements[i].setAttribute("data-cover", folder + tileNames[idx]);
+  }
+
+  elements = document.getElementsByClassName("blank-overlay");
+  for (var i = 0; i < elements.length; i++) {
+    elements[i].setAttribute("style", "opacity: " + (Math.random()*0.75));
+  }
+}
+
 changeTileColour(baseHue,baseSaturation);
 randomiseTileImages();
+randomisePlainTileImages();
