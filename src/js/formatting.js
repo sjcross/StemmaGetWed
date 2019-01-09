@@ -18,7 +18,7 @@ function changeTileColour(baseHue, baseSaturation) {
 // Randomly set tile images
 function randomiseTileImages() {
   const folder = "../../img/200_tiles/";
-  const tileNames = shuffle(["Tile1.png", "Tile2.png", "Tile4.png", "Tile5.png", "Tile6.png", "Tile7.png", "Tile8.png"]);
+  const tileNames = shuffle(["Tile1.png", "Tile2.png", "Tile4.png", "Tile5.png", "Tile6.png", "Tile7.png", "Tile8.png", "Tile9.png", "Tile10.png", "Tile11.png"]);
 
   const elements = document.getElementsByClassName("image-tile");
   for (var i = 0; i < elements.length; i++) {

@@ -1,13 +1,29 @@
 .start-screen {
   margin: auto;
   overflow: auto;
+
 }
 
-.whole-group {
-  max-width: 310px;
-  height: auto;
-  top: 10px;
-  margin: auto;
+.outer-group {
+  display: table;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.middle-group {
+  display: table-cell;
+  vertical-align: middle;
+
+}
+
+.inner-group {
+  margin-left: auto;
+  margin-right: auto;
+  width:310px;
+
 }
 
 .blank-overlay {
@@ -19,6 +35,6 @@
   position: relative;
 }
 
-.svg g {
+.svg g path {
   fill: hsl(225,60%,20%);
 }
