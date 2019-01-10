@@ -28,7 +28,11 @@
 
 .blank-overlay {
   position: absolute;
-  opacity: 0.5;
+}
+
+.faded-overlay {
+  position: absolute;
+  opacity: 0.7;
 }
 
 .svg {
@@ -37,4 +41,8 @@
 
 .svg g path {
   fill: hsl(202,51%,25%);
+}
+
+.faded-svg g path {
+  fill: hsl(202,51%,75%);
 }
