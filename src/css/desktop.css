@@ -22,7 +22,7 @@
 .inner-group {
   margin-left: auto;
   margin-right: auto;
-  width:800px;
+  width:950px;
 
 }
 
@@ -39,10 +39,6 @@
   position: relative;
 }
 
-.svg g path {
-  fill: hsl(202,51%,25%);
-}
-
-.faded-svg g path {
-  fill: hsl(202,51%,75%);
+select:invalid {
+  color: gray;
 }

@@ -34,7 +34,3 @@
 .svg {
   position: relative;
 }
-
-.svg g path {
-  fill: hsl(225,60%,20%);
-}

@@ -1,17 +1,23 @@
-const baseHue = 202;
+const baseHueBlue = 202;
+const baseHueYellow = 33;
 const baseSaturation = 51;
 
 
 // Change plain tile colour
-function changeTileColour(baseHue, baseSaturation) {
-  const plainElements = document.getElementsByClassName("plain-tile");
+function changeTileColour(baseHueBlue, baseSaturation) {
+  var plainElements = document.getElementsByClassName("plain-tile-blue");
   for (var i = 0; i < plainElements.length; i++) {
-    plainElements[i].setAttribute("style", "background-color: " + getColour(baseHue, baseSaturation, (50 + Math.random() * 40)));
+    plainElements[i].setAttribute("style", "background-color: " + getColour(baseHueBlue, baseSaturation, (50 + Math.random() * 40)));
   }
 
+  // plainElements = document.getElementsByClassName("plain-tile-yellow");
+  // for (var i = 0; i < plainElements.length; i++) {
+  //   plainElements[i].setAttribute("style", "background-color: " + getColour(baseHue, baseSaturation, (50 + Math.random() * 40)));
+  // }
+
   const textElements = document.getElementsByClassName("text-tile");
-  for (var i = 0; i < textElements.length; i++) {
-    textElements[i].setAttribute("style", "background-color: " + getColour(baseHue, baseSaturation, (70 + Math.random() * 20)));
+  for (i = 0; i < textElements.length; i++) {
+    textElements[i].setAttribute("style", "background-color: " + getColour(baseHueBlue, baseSaturation, (70 + Math.random() * 20)));
   }
 }
 
@@ -30,11 +36,18 @@ function randomiseTileImages() {
 // Randomly set tile images
 function randomisePlainTileImages() {
   const folder = "../../img/200_tiles/";
-  const tileNames = ["TilePlain1.png", "TilePlain2.png", "TilePlain3.png", "TilePlain4.png", "TilePlain5.png", "TilePlain6.png"];
 
-  var elements = document.getElementsByClassName("plain-tile");
+  var tileNames = ["TilePlainBlue1.png", "TilePlainBlue2.png", "TilePlainBlue3.png", "TilePlainBlue4.png", "TilePlainBlue5.png", "TilePlainBlue6.png"];
+  var elements = document.getElementsByClassName("plain-tile-blue");
   for (var i = 0; i < elements.length; i++) {
-    var idx = Math.floor(Math.random()*(tileNames.length));
+    const idx = Math.floor(Math.random()*(tileNames.length));
+    elements[i].setAttribute("data-cover", folder + tileNames[idx]);
+  }
+
+  tileNames = ["TilePlainYellow1.png", "TilePlainYellow2.png", "TilePlainYellow3.png", "TilePlainYellow4.png", "TilePlainYellow5.png", "TilePlainYellow6.png"];
+  elements = document.getElementsByClassName("plain-tile-yellow");
+  for (var i = 0; i < elements.length; i++) {
+    const idx = Math.floor(Math.random()*(tileNames.length));
     elements[i].setAttribute("data-cover", folder + tileNames[idx]);
   }
 
@@ -44,6 +57,6 @@ function randomisePlainTileImages() {
   }
 }
 
-changeTileColour(baseHue,baseSaturation);
-randomiseTileImages();
+changeTileColour(baseHueBlue,baseSaturation);
+// randomiseTileImages();
 randomisePlainTileImages();
