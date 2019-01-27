@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="762b8c5b-f72c-4784-966b-9b1b95b682cc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/html/desktop/RSVP.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/html/desktop/venue2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/html/mobile/RSVP.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/html/mobile/venue.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/desktop.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/desktop.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/mobile.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/mobile.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html/desktop/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/desktop/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html/desktop/venue.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/desktop/venue.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html/mobile/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/mobile/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/200_tiles/TilePlain1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/200_tiles/TilePlain2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/200_tiles/TilePlain3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/200_tiles/TilePlain4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/200_tiles/TilePlain5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/200_tiles/TilePlain6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/Boots-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/WideMask.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/svg/Address.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/svg/Address.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/svg/ChaucerBarn.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/svg/ChaucerBarn.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/svg/Date.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/svg/Date.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/svg/GemmaAndStephen.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/svg/GemmaAndStephen.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/svg/RSVP.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/svg/RSVP.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/svg/Stemma2020.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/svg/Stemma2020.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/svg/TheVenue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/svg/TheVenue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/formatting.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/formatting.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/functions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/svg.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tileconstruction/Tile5.svg" beforeDir="false" afterPath="$PROJECT_DIR$/tileconstruction/Tile5.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tileconstruction/Tile7.svg.2019_01_07_08_28_02.0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/desktop/RSVP.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/desktop/RSVP.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -54,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RSVP.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="RSVP.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/html/desktop/RSVP.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+            <state relative-caret-position="340">
+              <caret line="49" column="19" lean-forward="true" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -72,7 +43,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="venue.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="venue.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/html/desktop/venue.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -212,7 +183,6 @@
         <option value="$PROJECT_DIR$/src/html/mobile/main.html" />
         <option value="$PROJECT_DIR$/src/html/desktop/venue2.html" />
         <option value="$PROJECT_DIR$/src/html/mobile/RSVP.html" />
-        <option value="$PROJECT_DIR$/src/html/desktop/RSVP.html" />
         <option value="$PROJECT_DIR$/src/js/svg.js" />
         <option value="$PROJECT_DIR$/src/js/functions.js" />
         <option value="$PROJECT_DIR$/src/css/mobile.css" />
@@ -220,6 +190,7 @@
         <option value="$PROJECT_DIR$/src/html/desktop/main.html" />
         <option value="$PROJECT_DIR$/src/css/desktop.css" />
         <option value="$PROJECT_DIR$/src/html/desktop/venue.html" />
+        <option value="$PROJECT_DIR$/src/html/desktop/RSVP.html" />
       </list>
     </option>
   </component>
@@ -403,17 +374,18 @@
       <workItem from="1546627438989" duration="15692000" />
       <workItem from="1547027075343" duration="4902000" />
       <workItem from="1547107138116" duration="14475000" />
-      <workItem from="1547887849845" duration="2551000" />
+      <workItem from="1547887849845" duration="3585000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123488000" />
+    <option name="totallyTimeSpent" value="124522000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1464" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" auto_hide="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1786207" />
+      <window_info auto_hide="true" content_ui="combo" id="Project" order="0" weight="0.1786207" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5006784" side_tool="true" weight="0.32941177" />
@@ -7342,13 +7314,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/html/desktop/RSVP.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/html/desktop/venue2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -7403,6 +7368,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="53" column="69" lean-forward="true" selection-start-line="53" selection-start-column="69" selection-end-line="53" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/html/desktop/RSVP.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="49" column="19" lean-forward="true" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
         </state>
       </provider>
     </entry>
