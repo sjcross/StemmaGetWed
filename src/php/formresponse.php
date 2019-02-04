@@ -1,6 +1,8 @@
 <html>
 <body>
 <?php
+require_once 'Mail.php';
+
 // Only process the form if it has been filled in
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	// Getting the responses
@@ -9,18 +11,33 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	$noms = cleanInput($_POST["noms"]);
 
 	// Creating an email string
-	$msg = "Name: " . $name . "<br>";
-	$msg = $msg . "Attending: " . $attending . "<br>";
-	$msg = $msg . "Dietary requirements: " . $noms . "<br>";
+	$body = "Name: " . $name . "\r\n";
+	$body = $body . "Attending: " . $attending . "\r\n";
+	$body = $body . "Dietary requirements: " . $noms . "\r\n";
 
 	// Send email
-//	mail("stemma2020@gmail.com","New response",$msg);
+	$to = 'stemma2020@gmail.com';
+	$from = 'info@stemmagetwed.uk';
+	$subject = 'New response';
+	$headers = array ('From' => $from,'To' => $to,'Subject' => $subject);
 
-  // Display confirmation and redirect notice
-  displayRedirect($attending);
+    $host = 'cpanel.freehosting.com';
+    $username = 'info@stemmagetwed.uk';
+    $password = 'cabbage#12E4';
+    $smtp = Mail::factory('smtp',array ('host' => $host,'auth' => true,
+        'username' => $username,'password' => $password));
+
+    $mail = $smtp->send($to, $headers, $body);
+
+    if (PEAR::isError($mail)) {
+        echo("<p>" . $mail->getMessage() . "</p>");
+    } else {
+        // Display confirmation and redirect notice
+        displayRedirect($attending);
+    }
 
 	// Display new page
-  header("Refresh:5; url=../html/desktop/main.html");
+    header("Refresh:5; url=../html/desktop/main.html");
  	exit();
 
 }

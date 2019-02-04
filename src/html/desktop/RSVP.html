@@ -59,17 +59,17 @@
             <!--<form action="../../php/formresponse.php" method="post">-->
             <form action="http://localhost/php/formresponse.php" method="post">
               <img src="../../img/svg/Text_Name.svg" class="svg">
-              <input name="name" type="text" title="name" required>
+              <input name="name" type="text" title="name" autocomplete="off" required>
               <br>
               <img src="../../img/svg/Text_WillYouBeJoiningUs.svg" class="svg">
-              <select name="attending" title="attending" required>
+              <select name="attending" title="attending" autocomplete="off" required>
                 <option value=""  disabled selected></option>
                 <option value="Yes">Yep, I'll be there :)</option>
                 <option value="No">Boo, I can't come :(</option>
               </select>
               <br>
               <img src="../../img/svg/Text_AnyDietaryRequirements.svg" class="svg">
-              <input name="noms" type="text" title="noms">
+              <input name="noms" type="text" title="noms" autocomplete="off" >
               <br>
               <input type="image" name="submit" src="../../img/svg/Text_SendResponse.svg" class="svg" style="border: 2px #d0ba6d solid; height: 45px; width: 100%">
               <!--<input type="submit" >-->
@@ -84,7 +84,13 @@
           <div data-role="tile" class="plain-tile-blue bg-white" data-size="small" data-clickable="no">
             <img class="blank-overlay" src="../../img/200_tiles/TileBlank.png">
           </div>
-          <div data-role="tile" class="image-tile bg-white" data-clickable="no" data-cover="../../img/200_tiles/Tile8.png"></div>
+          <a href="RSVP.html" data-role="tile" class="plain-tile-blue bg-white">
+            <img class="blank-overlay" src="../../img/200_tiles/TileBlank.png">
+            <img src="../../img/svg/RSVP.svg" class="svg">
+            <div class="branding-bar">
+              <img src="../../img/icons/external-link-2-12.png" height="12" width="12">
+            </div>
+          </a>
 
           <!--ROW 4-->
           <div data-role="tile" class="plain-tile-blue bg-white" data-size="small" data-clickable="no">
@@ -96,9 +102,9 @@
           <div data-role="tile" class="image-tile bg-white" data-clickable="no" data-cover="../../img/200_tiles/Tile11.png"></div>
 
           <!--ROW 5-->
-          <a href="RSVP.html" data-role="tile" class="plain-tile-blue bg-white">
+          <a href="OnTheDay.html" data-role="tile" class="plain-tile-blue bg-white">
             <img class="blank-overlay" src="../../img/200_tiles/TileBlank.png">
-            <img src="../../img/svg/RSVP.svg" class="svg">
+            <img src="../../img/svg/OnTheDay.svg" class="svg">
             <div class="branding-bar">
               <img src="../../img/icons/external-link-2-12.png" height="12" width="12">
             </div>
@@ -125,12 +131,7 @@
               <img src="../../img/icons/external-link-2-12.png" height="12" width="12">
             </div>
           </a>
-          <div data-role="tile" class="plain-tile-blue bg-white" data-size="small" data-clickable="no">
-            <img class="blank-overlay" src="../../img/200_tiles/TileBlank.png">
-          </div>
-          <div data-role="tile" class="plain-tile-blue bg-white" data-size="small" data-clickable="no">
-            <img class="blank-overlay" src="../../img/200_tiles/TileBlank.png">
-          </div>
+          <div data-role="tile" class="image-tile bg-white" data-clickable="no" data-cover="../../img/200_tiles/Tile8.png"></div>
 
           <!--ROW 7-->
           <div data-role="tile" class="image-tile bg-white" data-clickable="no" data-cover="../../img/200_tiles/Tile4.png"></div>
@@ -141,6 +142,10 @@
           <div data-role="tile" class="plain-tile-yellow bg-white" data-size="small" data-clickable="no">
             <img class="blank-overlay" src="../../img/200_tiles/TileBlank.png">
           </div>
+
+          <!--ROW 8-->
+          <div data-role="tile" class="text-tile bg-white" data-size="wide" data-cover="../../img/400_200_tiles/Boots.png" data-clickable="no"></div>
+          <div data-role="tile" class="image-tile bg-white" data-clickable="no" data-cover="../../img/200_tiles/Tile5b.png"></div>
           <a href="https://www.instagram.com/explore/tags/stemma2020/?hl=en" target="_blank" data-role="tile" class="text-tile bg-white" data-size="medium" data-cover="../../img/200_tiles/TileInstagram.png">
             <img class="blank-overlay" src="../../img/200_tiles/TileBlank.png">
             <img src="../../img/svg/Stemma2020.svg" class="svg">
@@ -148,10 +153,6 @@
               <img src="../../img/icons/external-link-2-12.png" height="12" width="12">
             </div>
           </a>
-
-          <!--ROW 8-->
-          <div data-role="tile" class="text-tile bg-white" data-size="wide" data-cover="../../img/400_200_tiles/Boots.png" data-clickable="no"></div>
-          <div data-role="tile" class="image-tile bg-white" data-clickable="no" data-cover="../../img/200_tiles/Tile5b.png"></div>
 
           <!--ROW 9-->
           <div data-role="tile" class="plain-tile-blue bg-white" data-size="small" data-clickable="no">
@@ -164,12 +165,6 @@
             <img class="blank-overlay" src="../../img/200_tiles/TileBlank.png">
           </div>
           <div data-role="tile" class="plain-tile-yellow bg-white" data-size="small" data-clickable="no">
-            <img class="blank-overlay" src="../../img/200_tiles/TileBlank.png">
-          </div>
-          <div data-role="tile" class="plain-tile-blue bg-white" data-size="small" data-clickable="no">
-            <img class="blank-overlay" src="../../img/200_tiles/TileBlank.png">
-          </div>
-          <div data-role="tile" class="plain-tile-blue bg-white" data-size="small" data-clickable="no">
             <img class="blank-overlay" src="../../img/200_tiles/TileBlank.png">
           </div>
         </div>
