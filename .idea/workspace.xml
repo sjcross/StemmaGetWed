@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="762b8c5b-f72c-4784-966b-9b1b95b682cc" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/html/desktop/stemma.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/metro-all.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/metro-all.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/html/desktop/RSVP.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/desktop/RSVP.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/desktop/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/desktop/main.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/html/desktop/venue.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/desktop/venue.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html/desktop/venue2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/svg/Text_AttendingYes.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/svg/Text_AttendingYes.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/php/formresponse.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/php/formresponse.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tileconstruction/InvertedWideMask.tif" beforeDir="false" afterPath="$PROJECT_DIR$/tileconstruction/InvertedWideMask.tif" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,8 +26,8 @@
       <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/html/desktop/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="35" column="89" selection-start-line="35" selection-start-column="89" selection-end-line="35" selection-end-column="89" />
+            <state relative-caret-position="221">
+              <caret line="26" column="88" selection-start-line="26" selection-start-column="88" selection-end-line="26" selection-end-column="88" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#6;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -37,12 +39,11 @@
       <file leaf-file-name="venue.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/html/desktop/venue.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="147" column="87" lean-forward="true" selection-start-line="147" selection-start-column="87" selection-end-line="147" selection-end-column="87" />
+            <state relative-caret-position="1020">
+              <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#5;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#5;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -51,21 +52,35 @@
       <file leaf-file-name="RSVP.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/html/desktop/RSVP.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="69" column="18" lean-forward="true" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
+            <state relative-caret-position="629">
+              <caret line="79" column="18" selection-start-line="79" selection-start-column="18" selection-end-line="79" selection-end-column="18" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#7;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#input#2;n#form#0;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="formresponse.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/php/formresponse.php">
+      <file leaf-file-name="metro-all.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/css/metro-all.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="728">
-              <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+            <state relative-caret-position="210">
+              <caret line="31101" column="1" selection-start-line="31101" selection-start-column="1" selection-end-line="31101" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stemma.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/html/desktop/stemma.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="131" column="57" selection-start-line="131" selection-start-column="57" selection-end-line="131" selection-end-column="57" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#6;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,7 +98,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>meta</find>
       <find>size</find>
       <find>data-size</find>
       <find>.image-tile</find>
@@ -97,7 +111,6 @@
       <find>small</find>
       <find>RSVP</find>
       <find>stemm</find>
-      <find>boot</find>
       <find>plain-tile</find>
       <find>faded</find>
       <find>yello</find>
@@ -110,9 +123,11 @@
       <find>Tile6</find>
       <find>Tile5</find>
       <find>large</find>
-      <find>long</find>
       <find>Tile7</find>
       <find>&quot;</find>
+      <find>noms</find>
+      <find>long</find>
+      <find>boot</find>
     </findStrings>
     <replaceStrings>
       <replace>right</replace>
@@ -161,14 +176,15 @@
         <option value="$PROJECT_DIR$/src/css/mobile.css" />
         <option value="$PROJECT_DIR$/src/js/formatting.js" />
         <option value="$PROJECT_DIR$/src/css/desktop.css" />
-        <option value="$PROJECT_DIR$/src/css/metro-all.css" />
         <option value="$PROJECT_DIR$/src/php/RSVP.php" />
-        <option value="$PROJECT_DIR$/src/html/desktop/main.html" />
         <option value="$PROJECT_DIR$/src/php/index.php" />
         <option value="$PROJECT_DIR$/src/php/test.html" />
         <option value="$PROJECT_DIR$/src/html/desktop/venue.html" />
+        <option value="$PROJECT_DIR$/src/html/desktop/main.html" />
+        <option value="$PROJECT_DIR$/src/css/metro-all.css" />
         <option value="$PROJECT_DIR$/src/html/desktop/RSVP.html" />
         <option value="$PROJECT_DIR$/src/php/formresponse.php" />
+        <option value="$PROJECT_DIR$/src/html/desktop/stemma.html" />
       </list>
     </option>
   </component>
@@ -179,9 +195,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="width" value="923" />
-    <option name="height" value="1088" />
+    <option name="x" value="-9" />
+    <option name="width" value="924" />
+    <option name="height" value="1089" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -209,6 +225,19 @@
               <item name="Wedding" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Wedding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wedding" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Wedding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wedding" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="desktop" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Wedding" type="b2602c69:ProjectViewProjectNode" />
@@ -309,20 +338,21 @@
       <workItem from="1548627656302" duration="452000" />
       <workItem from="1548709077701" duration="15252000" />
       <workItem from="1548869890510" duration="9407000" />
+      <workItem from="1549815587519" duration="4599000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149633000" />
+    <option name="totallyTimeSpent" value="154232000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1464" height="878" extended-state="7" />
+    <frame x="-7" y="-7" width="1464" height="878" extended-state="6" />
     <layout>
       <window_info active="true" auto_hide="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17793104" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5006784" side_tool="true" weight="0.32941177" />
-      <window_info anchor="bottom" auto_hide="true" id="File Transfer" order="8" sideWeight="0.49932158" weight="0.20330368" />
+      <window_info anchor="bottom" auto_hide="true" id="File Transfer" order="8" sideWeight="0.49932158" visible="true" weight="0.20330368" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" auto_hide="true" id="Run" order="2" weight="0.32909784" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -347,13 +377,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/js/formatting.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/site.webmanifest">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -527,13 +550,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/html/desktop/venue2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="58" column="38" selection-start-line="58" selection-start-column="38" selection-end-line="58" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/html/desktop/venue2.html" />
     <entry file="file://$PROJECT_DIR$/src/js/svg.js" />
     <entry file="file://$PROJECT_DIR$/src/css/mobile.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -577,35 +594,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/metro-all.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528224">
-          <caret line="31072" column="1" selection-start-line="31072" selection-start-column="1" selection-end-line="31072" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/php/RSVP.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="48" column="22" lean-forward="true" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/php/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="39" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/php/RSVP.php" />
+    <entry file="file://$PROJECT_DIR$/src/php/test.html" />
     <entry file="file://$PROJECT_DIR$/src/html/desktop/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="35" column="89" selection-start-line="35" selection-start-column="89" selection-end-line="35" selection-end-column="89" />
+        <state relative-caret-position="221">
+          <caret line="26" column="88" selection-start-line="26" selection-start-column="88" selection-end-line="26" selection-end-column="88" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#6;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -615,22 +609,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/html/desktop/venue.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="147" column="87" lean-forward="true" selection-start-line="147" selection-start-column="87" selection-end-line="147" selection-end-column="87" />
+        <state relative-caret-position="1020">
+          <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#5;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#5;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/html/desktop/RSVP.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="69" column="18" lean-forward="true" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
+        <state relative-caret-position="629">
+          <caret line="79" column="18" selection-start-line="79" selection-start-column="18" selection-end-line="79" selection-end-column="18" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#7;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#input#2;n#form#0;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -638,8 +632,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/php/formresponse.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="728">
-          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+        <state relative-caret-position="238">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/metro-all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="31101" column="1" selection-start-line="31101" selection-start-column="1" selection-end-line="31101" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/html/desktop/stemma.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="131" column="57" selection-start-line="131" selection-start-column="57" selection-end-line="131" selection-end-column="57" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#6;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

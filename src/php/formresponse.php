@@ -9,11 +9,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	$name = cleanInput($_POST["name"]);
 	$attending = cleanInput($_POST["attending"]);
 	$noms = cleanInput($_POST["noms"]);
+	$comments = cleanInput($_POST["comments"]);
 
 	// Creating an email string
 	$body = "Name: " . $name . "\r\n";
 	$body = $body . "Attending: " . $attending . "\r\n";
 	$body = $body . "Dietary requirements: " . $noms . "\r\n";
+	$body = $body . "Comments: " . $comments . "\r\n";
 
 	// Send email
 	$to = 'stemma2020@gmail.com';
@@ -76,5 +78,13 @@ echo "<div style=\"display: flex; justify-content: center\">
           </a>
        </div>";
 }
+}
+
+function displayError() {
+echo "<div style=\"display: flex; justify-content: center\">
+        <a href=\"../html/desktop/main.html\">
+          <img src=\"../img/svg/Text_Error.svg\" class=\"svg\" style=\"width: 100%\">
+        </a>
+     </div>";
 }
 ?>

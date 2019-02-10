@@ -50,10 +50,13 @@
           <!--ROW 2-->
           <div data-role="tile" class="plain-tile-blue bg-white" data-clickable="yes">
             <img src="../../img/200_tiles/TileBlank.png" style="position: absolute; opacity: 0.1">
-            <img src="../../img/svg/GemmaAndStephen.svg" class="svg">
-            <div class="branding-bar">
-              <img src="../../img/icons/cheese-24.png" height="20" width="20">
-            </div>
+            <a href="stemma.html" data-role="tile" class="plain-tile-blue">
+              <img class="blank-overlay" src="../../img/200_tiles/TileBlank.png">
+              <img src="../../img/svg/GemmaAndStephen.svg" class="svg">
+              <div class="branding-bar">
+                <img src="../../img/icons/cheese-24.png" height="20" width="20">
+              </div>
+            </a>
           </div>
           <div data-role="tile" class="tile bg-white" data-size="long" data-clickable="no">
             <!--<form action="../../php/formresponse.php" method="post">-->
@@ -70,6 +73,10 @@
               <br>
               <img src="../../img/svg/Text_AnyDietaryRequirements.svg" class="svg">
               <input name="noms" type="text" title="noms" autocomplete="off" >
+              <br>
+              <img src="../../img/svg/Text_Comments.svg" class="svg">
+              <input name="comments" type="text" title="comments" autocomplete="off" >
+              <br>
               <br>
               <input type="image" name="submit" src="../../img/svg/Text_SendResponse.svg" class="svg" style="border: 2px #d0ba6d solid; height: 45px; width: 100%">
               <!--<input type="submit" >-->
@@ -135,16 +142,15 @@
 
           <!--ROW 7-->
           <div data-role="tile" class="image-tile bg-white" data-clickable="no" data-cover="../../img/200_tiles/Tile4.png"></div>
-          <div data-role="tile" class="image-tile bg-white" data-clickable="no" data-cover="../../img/200_tiles/Tile10b.png"></div>
-          <div data-role="tile" class="plain-tile-yellow bg-white" data-size="small" data-clickable="no">
-            <img class="blank-overlay" src="../../img/200_tiles/TileBlank.png">
-          </div>
-          <div data-role="tile" class="plain-tile-yellow bg-white" data-size="small" data-clickable="no">
-            <img class="blank-overlay" src="../../img/200_tiles/TileBlank.png">
-          </div>
 
           <!--ROW 8-->
           <div data-role="tile" class="text-tile bg-white" data-size="wide" data-cover="../../img/400_200_tiles/Boots.png" data-clickable="no"></div>
+          <div data-role="tile" class="plain-tile-yellow bg-white" data-size="small" data-clickable="no">
+            <img class="blank-overlay" src="../../img/200_tiles/TileBlank.png">
+          </div>
+          <div data-role="tile" class="plain-tile-yellow bg-white" data-size="small" data-clickable="no">
+            <img class="blank-overlay" src="../../img/200_tiles/TileBlank.png">
+          </div>
           <div data-role="tile" class="image-tile bg-white" data-clickable="no" data-cover="../../img/200_tiles/Tile5b.png"></div>
           <a href="https://www.instagram.com/explore/tags/stemma2020/?hl=en" target="_blank" data-role="tile" class="text-tile bg-white" data-size="medium" data-cover="../../img/200_tiles/TileInstagram.png">
             <img class="blank-overlay" src="../../img/200_tiles/TileBlank.png">
