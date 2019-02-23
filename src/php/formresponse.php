@@ -10,6 +10,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	$attending = cleanInput($_POST["attending"]);
 	$noms = cleanInput($_POST["noms"]);
 	$comments = cleanInput($_POST["comments"]);
+	$format = $_POST["format"];
 
 	// Creating an email string
 	$body = "Name: " . $name . "\r\n";
@@ -35,11 +36,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         echo("<p>" . $mail->getMessage() . "</p>");
     } else {
         // Display confirmation and redirect notice
-        displayRedirect($attending);
+        displayRedirect($attending, $format);
     }
 
 	// Display new page
-    header("Refresh:5; url=../html/desktop/main.html");
+    header("Refresh:5; url=../html/" . $format . "/main.html");
  	exit();
 
 }
@@ -58,22 +59,22 @@ function cleanInput($data) {
 
 }
 
-function displayRedirect($attending) {
+function displayRedirect($attending, $format) {
 if ($attending == "Yes") {
 echo "<div style=\"display: flex; justify-content: center\">
-        <a href=\"../html/desktop/main.html\">
+        <a href=\"../html/" .$format. "/main.html\">
           <img src=\"../img/svg/Text_AttendingYes.svg\" class=\"svg\" style=\"width: 100%\">
         </a>
      </div>";
 } else if ($attending == "No") {
   echo "<div style=\"display: flex; justify-content: center\">
-          <a href=\"../html/desktop/main.html\">
+          <a href=\"../html/" .$format. "/main.html\">
             <img src=\"../img/svg/Text_AttendingNo.svg\" class=\"svg\" style=\"width: 100%\">
           </a>
         </div>";
 } else {
   echo "<div style=\"display: flex; justify-content: center\">
-          <a href=\"../html/desktop/main.html\">
+          <a href=\"../html/" .$format. "/main.html\">
             <img src=\"../img/svg/Text_AttendingYes.svg\" class=\"svg\" style=\"width: 100%\">
           </a>
        </div>";
