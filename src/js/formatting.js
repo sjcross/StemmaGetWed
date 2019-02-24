@@ -4,16 +4,16 @@ const baseSaturation = 51;
 
 
 // Change plain tile colour
-function changeTileColour(baseHueBlue, baseSaturation) {
-  var plainElements = document.getElementsByClassName("plain-tile-blue");
-  for (var i = 0; i < plainElements.length; i++) {
-    plainElements[i].setAttribute("style", "background-color: " + getColour(baseHueBlue, baseSaturation, (50 + Math.random() * 40)));
+function changeTileColour() {
+  var plainElementsBlue = document.getElementsByClassName("plain-tile-blue");
+  for (var i = 0; i < plainElementsBlue.length; i++) {
+    plainElementsBlue[i].setAttribute("style", "background-color: " + getColour(baseHueBlue, baseSaturation, (50 + Math.random() * 40)));
   }
 
-  // plainElements = document.getElementsByClassName("plain-tile-yellow");
-  // for (var i = 0; i < plainElements.length; i++) {
-  //   plainElements[i].setAttribute("style", "background-color: " + getColour(baseHue, baseSaturation, (50 + Math.random() * 40)));
-  // }
+  var plainElementsYellow = document.getElementsByClassName("plain-tile-yellow");
+  for (var i = 0; i < plainElementsYellow.length; i++) {
+    plainElementsYellow[i].setAttribute("style", "background-color: " + getColour(baseHueYellow, baseSaturation, (70 + Math.random() * 20)));
+  }
 
   const textElements = document.getElementsByClassName("text-tile");
   for (i = 0; i < textElements.length; i++) {
@@ -53,10 +53,10 @@ function randomisePlainTileImages() {
 
   elements = document.getElementsByClassName("blank-overlay");
   for (var i = 0; i < elements.length; i++) {
-    elements[i].setAttribute("style", "opacity: " + (Math.random()*0.75));
+    elements[i].setAttribute("style", "opacity: " + (0.3 + (Math.random()*0.4)));
   }
 }
 
-changeTileColour(baseHueBlue,baseSaturation);
+// changeTileColour();
 // randomiseTileImages();
 randomisePlainTileImages();
