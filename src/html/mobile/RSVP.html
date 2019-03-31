@@ -21,45 +21,44 @@
         <div class="tiles-grid tiles-group size-2 fg-white">
           <!-- ROW 1 -->
           <a href="../mobile/main.html" data-role="tile" class="plain-tile-blue bg-white" data-size="small">
-            <img class="blank-overlay" src="../../img/200_tiles/TileBlank.png">
+            <img src="../../img/200_tiles/TilePlainYellow1.png" style="width: 100%">
             <img src="../../img/icons/home-3-64.png" class="icon">
           </a>
-          <a href="../desktop/main.html" data-role="tile" class="plain-tile-blue bg-white" data-size="small">
+          <div data-role="tile" class="plain-tile-blue bg-white" data-size="small" data-clickable="no">
             <img class="blank-overlay" src="../../img/200_tiles/TileBlank.png">
-            <img src="../../img/icons/computer-64.png" class="icon">
-          </a>
+          </div>
           <div data-role="tile" class="image-tile bg-white" data-size="small" data-clickable="no" data-cover="../../img/200_tiles/Tile10.png"></div>
           <div data-role="tile" class="image-tile bg-white" data-size="small" data-clickable="no" data-cover="../../img/200_tiles/Tile7.png"></div>
 
           <div data-role="tile" class="tile bg-white" data-size="long" data-clickable="no">
             <form action="../../php/formresponse.php" method="post">
             <!--<form action="http://localhost/php/formresponse.php" method="post">-->
-              <img src="../../img/svg/Text_Name.svg" class="svg" style="width: 100%">
+              <img src="../../img/svg/Text_Name_Blue.svg" class="svg" style="width: 100%">
               <input name="name" type="text" title="name" autocomplete="off" required>
               <br>
-              <img src="../../img/svg/Text_WillYouBeJoiningUs.svg" class="svg" style="width: 100%">
+              <img src="../../img/svg/Text_WillYouBeJoiningUs_Blue.svg" class="svg" style="width: 100%">
               <select name="attending" title="attending" autocomplete="off" required>
                 <option value=""  disabled selected></option>
                 <option value="Yes">Yep, I'll be there :)</option>
                 <option value="No">Boo, I can't come :(</option>
               </select>
               <br>
-              <img src="../../img/svg/Text_AnyDietaryRequirements.svg" class="svg" style="width: 100%">
+              <img src="../../img/svg/Text_AnyDietaryRequirements_Blue.svg" class="svg" style="width: 100%">
               <input name="noms" type="text" title="noms" autocomplete="off" >
               <br>
-              <img src="../../img/svg/Text_Comments.svg" class="svg" style="width: 100%">
+              <img src="../../img/svg/Text_Comments_Blue.svg" class="svg" style="width: 100%">
               <input name="comments" type="text" title="comments" autocomplete="off" >
               <br>
               <br>
               <input type="hidden" name="format" value="mobile"/>
-              <input type="image" name="submit" src="../../img/svg/Text_SendResponse.svg" class="svg" style="border: 2px #d0ba6d solid; height: 45px; width: 100%">
+              <input type="image" name="submit" src="../../img/svg/Text_SendResponse_Blue.svg" class="svg" style="border: 2px #6dacd0 solid; height: 45px; width: 100%">
             </form>
           </div>
 
           <!-- ROW 8 -->
           <div data-role="tile" class="image-tile bg-white" data-size="small" data-clickable="no" data-cover="../../img/200_tiles/Tile1.png"></div>
           <div data-role="tile" class="image-tile bg-white" data-size="small" data-clickable="no" data-cover="../../img/200_tiles/Tile5.png"></div>
-          <div data-role="tile" class="image-tile bg-white" data-size="small" data-clickable="no" data-cover="../../img/200_tiles/Tile4.png"></div>
+          <div data-role="tile" class="image-tile bg-white" data-size="small" data-clickable="no" data-cover="../../img/200_tiles/Tile9.png"></div>
           <a href="https://www.instagram.com/explore/tags/stemma2020/?hl=en" target="_blank" data-role="tile" class="text-tile bg-white" data-size="small" data-cover="../../img/200_tiles/TileInstagram.png">
             <img class="blank-overlay" src="../../img/200_tiles/TileBlank.png">
             <img src="../../img/svg/Stemma2020Mobile.svg" class="svg">
@@ -68,6 +67,11 @@
             </div>
           </a>
         </div>
+        <span style="display: block; text-align: center">
+          <a href="../desktop/RSVP.html">
+            <img src="../../img/svg/GoToDesktop.svg" class="svg">
+          </a>
+        </span>
       </div>
     </div>
   </div>
