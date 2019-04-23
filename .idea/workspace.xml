@@ -2,23 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="762b8c5b-f72c-4784-966b-9b1b95b682cc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/html/mobile/stemma.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html/desktop/otherinfo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html/mobile/otherinfo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/html/desktop/RSVP.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/desktop/RSVP.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/html/desktop/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/desktop/main.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/html/desktop/stemma.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/desktop/stemma.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/html/desktop/venue.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/desktop/venue.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html/mobile/RSVP.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/mobile/RSVP.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/html/mobile/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/mobile/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/mobile/stemma.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/mobile/stemma.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/html/mobile/venue.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/mobile/venue.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/svg/AccomodationDetails.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/svg/Address.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/svg/ChaucerBarn.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/svg/Text_AnyDietaryRequirements.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/svg/Text_Comments.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/svg/Text_Name.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/svg/Text_SendResponse.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/svg/Text_WillYouBeJoiningUs.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tileconstruction/TIleBlank.svg" beforeDir="false" afterPath="$PROJECT_DIR$/tileconstruction/TIleBlank.svg" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,8 +29,8 @@
       <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/html/mobile/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="44" column="16" selection-end-line="111" />
+            <state relative-caret-position="694">
+              <caret line="70" column="28" selection-start-line="70" selection-start-column="19" selection-end-line="70" selection-end-column="28" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -48,45 +42,11 @@
       <file leaf-file-name="RSVP.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/html/mobile/RSVP.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="901">
-              <caret line="53" column="133" selection-start-line="53" selection-start-column="133" selection-end-line="53" selection-end-column="133" />
+            <state relative-caret-position="-173">
+              <caret line="35" column="39" lean-forward="true" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="formresponse.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/php/formresponse.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stemma.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/html/mobile/stemma.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="85" column="57" lean-forward="true" selection-start-line="85" selection-start-column="57" selection-end-line="85" selection-end-column="57" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stemma.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/html/desktop/stemma.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1275">
-              <caret line="41" column="109" lean-forward="true" selection-start-line="41" selection-start-column="109" selection-end-line="41" selection-end-column="109" />
-              <folding>
+                <element signature="n#style#0;n#input#4;n#form#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -96,10 +56,53 @@
       <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/html/desktop/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="126" column="22" lean-forward="true" selection-start-line="126" selection-start-column="22" selection-end-line="126" selection-end-column="22" />
+            <state relative-caret-position="-595">
+              <caret line="97" column="16" selection-start-line="97" selection-start-column="16" selection-end-line="97" selection-end-column="16" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="otherinfo.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/html/desktop/otherinfo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="137" column="14" lean-forward="true" selection-start-line="137" selection-start-column="14" selection-end-line="137" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#12;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="otherinfo.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/html/mobile/otherinfo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+              <folding>
+                <element signature="e#881#900#0" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#3741#3760#0" expanded="true" />
+                <element signature="e#4795#4837#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stemma.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/html/mobile/stemma.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="70" column="28" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -109,8 +112,8 @@
       <file leaf-file-name="RSVP.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/html/desktop/RSVP.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1326">
-              <caret line="78" column="91" selection-start-line="78" selection-start-column="91" selection-end-line="78" selection-end-column="91" />
+            <state relative-caret-position="405">
+              <caret line="108" column="28" selection-start-line="108" selection-start-column="28" selection-end-line="108" selection-end-column="28" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -124,24 +127,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="venue.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/html/mobile/venue.html">
+      <file leaf-file-name="stemma.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/html/desktop/stemma.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="66" column="49" selection-start-line="66" selection-start-column="49" selection-end-line="66" selection-end-column="49" />
+            <state relative-caret-position="425">
+              <caret line="88" column="28" selection-start-line="88" selection-start-column="28" selection-end-line="88" selection-end-column="28" />
               <folding>
-                <element signature="e#881#900#0" expanded="true" />
-                <element signature="e#2751#2791#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mobile.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/mobile.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -149,10 +142,26 @@
       <file leaf-file-name="venue.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/html/desktop/venue.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="122" column="32" lean-forward="true" selection-start-line="122" selection-start-column="32" selection-end-line="122" selection-end-column="48" />
+            <state relative-caret-position="227">
+              <caret line="122" column="10" selection-start-line="122" selection-start-column="10" selection-end-line="124" selection-end-column="16" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="venue.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/html/mobile/venue.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="75" column="28" lean-forward="true" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="28" />
+              <folding>
+                <element signature="e#881#900#0" expanded="true" />
+                <element signature="e#2252#2292#0" expanded="true" />
+                <element signature="e#2751#2791#0" expanded="true" />
+                <element signature="e#3741#3760#0" expanded="true" />
+                <element signature="e#4795#4837#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -171,7 +180,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Tile2</find>
       <find>Tile4</find>
       <find>Tile8</find>
       <find>Tile9</find>
@@ -201,6 +209,7 @@
       <find>boot</find>
       <find>svg</find>
       <find>boots</find>
+      <find>accomo</find>
     </findStrings>
     <replaceStrings>
       <replace>right</replace>
@@ -250,15 +259,18 @@
         <option value="$PROJECT_DIR$/src/css/metro-all.css" />
         <option value="$PROJECT_DIR$/src/js/formatting.js" />
         <option value="$PROJECT_DIR$/src/css/desktop.css" />
-        <option value="$PROJECT_DIR$/src/html/desktop/stemma.html" />
-        <option value="$PROJECT_DIR$/src/html/mobile/main.html" />
         <option value="$PROJECT_DIR$/src/html/mobile/RSVP.html" />
         <option value="$PROJECT_DIR$/src/php/formresponse.php" />
-        <option value="$PROJECT_DIR$/src/html/desktop/RSVP.html" />
-        <option value="$PROJECT_DIR$/src/html/mobile/stemma.html" />
+        <option value="$PROJECT_DIR$/src/html/desktop/ontheday.html" />
         <option value="$PROJECT_DIR$/src/html/desktop/main.html" />
+        <option value="$PROJECT_DIR$/src/html/desktop/RSVP.html" />
+        <option value="$PROJECT_DIR$/src/html/desktop/stemma.html" />
         <option value="$PROJECT_DIR$/src/html/desktop/venue.html" />
+        <option value="$PROJECT_DIR$/src/html/desktop/otherinfo.html" />
         <option value="$PROJECT_DIR$/src/html/mobile/venue.html" />
+        <option value="$PROJECT_DIR$/src/html/mobile/main.html" />
+        <option value="$PROJECT_DIR$/src/html/mobile/stemma.html" />
+        <option value="$PROJECT_DIR$/src/html/mobile/otherinfo.html" />
       </list>
     </option>
   </component>
@@ -269,8 +281,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
+    <option name="x" value="-8" />
     <option name="width" value="938" />
     <option name="height" value="1088" />
   </component>
@@ -282,7 +293,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -361,6 +371,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -396,7 +407,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.venue.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="file://$PROJECT_DIR$/src/index.html" />
     <configuration name="main.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://cpanel.freehosting.com/html/desktop/main.html" />
     <configuration name="main.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="file://$PROJECT_DIR$/src/html/mobile/main.html" />
@@ -413,8 +424,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.venue.html" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.venue.html" />
         <item itemvalue="JavaScript Debug.main.html" />
         <item itemvalue="JavaScript Debug.main.html (1)" />
         <item itemvalue="JavaScript Debug.savethedate.html" />
@@ -461,17 +472,18 @@
       <workItem from="1553880769642" duration="673000" />
       <workItem from="1553943603045" duration="11568000" />
       <workItem from="1554031337771" duration="1323000" />
+      <workItem from="1556031012456" duration="4570000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182318000" />
+    <option name="totallyTimeSpent" value="186888000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1488" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3432836" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18860245" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5006784" side_tool="true" weight="0.32941177" />
@@ -500,14 +512,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/css/desktop.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/index.js" />
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -698,17 +702,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/html/mobile/RSVP.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="53" column="133" selection-start-line="53" selection-start-column="133" selection-end-line="53" selection-end-column="133" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/php/formresponse.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -716,10 +709,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/html/mobile/main.html">
+    <entry file="file://$PROJECT_DIR$/src/html/desktop/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="16" selection-end-line="111" />
+        <state relative-caret-position="-595">
+          <caret line="97" column="16" selection-start-line="97" selection-start-column="16" selection-end-line="97" selection-end-column="16" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -729,8 +722,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/html/desktop/RSVP.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1326">
-          <caret line="78" column="91" selection-start-line="78" selection-start-column="91" selection-end-line="78" selection-end-column="91" />
+        <state relative-caret-position="405">
+          <caret line="108" column="28" selection-start-line="108" selection-start-column="28" selection-end-line="108" selection-end-column="28" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -745,9 +738,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/html/desktop/stemma.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1275">
-          <caret line="41" column="109" lean-forward="true" selection-start-line="41" selection-start-column="109" selection-end-line="41" selection-end-column="109" />
+        <state relative-caret-position="425">
+          <caret line="88" column="28" selection-start-line="88" selection-start-column="28" selection-end-line="88" selection-end-column="28" />
           <folding>
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/html/desktop/venue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="122" column="10" selection-start-line="122" selection-start-column="10" selection-end-line="124" selection-end-column="16" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/html/desktop/otherinfo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="137" column="14" lean-forward="true" selection-start-line="137" selection-start-column="14" selection-end-line="137" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#12;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/html/mobile/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="694">
+          <caret line="70" column="28" selection-start-line="70" selection-start-column="19" selection-end-line="70" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/html/mobile/RSVP.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-173">
+          <caret line="35" column="39" lean-forward="true" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#4;n#form#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -755,8 +793,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/html/mobile/stemma.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="85" column="57" lean-forward="true" selection-start-line="85" selection-start-column="57" selection-end-line="85" selection-end-column="57" />
+        <state relative-caret-position="465">
+          <caret line="70" column="28" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -765,34 +803,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/html/desktop/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="126" column="22" lean-forward="true" selection-start-line="126" selection-start-column="22" selection-end-line="126" selection-end-column="22" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/html/desktop/venue.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="122" column="32" lean-forward="true" selection-start-line="122" selection-start-column="32" selection-end-line="122" selection-end-column="48" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/html/mobile/venue.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="66" column="49" selection-start-line="66" selection-start-column="49" selection-end-line="66" selection-end-column="49" />
+        <state relative-caret-position="238">
+          <caret line="75" column="28" lean-forward="true" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="28" />
           <folding>
             <element signature="e#881#900#0" expanded="true" />
+            <element signature="e#2252#2292#0" expanded="true" />
             <element signature="e#2751#2791#0" expanded="true" />
+            <element signature="e#3741#3760#0" expanded="true" />
+            <element signature="e#4795#4837#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/html/mobile/otherinfo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#881#900#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#3741#3760#0" expanded="true" />
+            <element signature="e#4795#4837#0" expanded="true" />
           </folding>
         </state>
       </provider>
