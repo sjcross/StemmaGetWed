@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="30"
+   viewBox="0 0 300.00001 30"
+   version="1.1"
+   id="svg6533"
+   sodipodi:docname="Text_Name.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <defs
+     id="defs6527" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="152.80009"
+     inkscape:cy="27.24292"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1812"
+     inkscape:window-height="1050"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true" />
+  <metadata
+     id="metadata6530">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1092.5197)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.18751344;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7086"
+       width="146.65475"
+       height="20.599701"
+       x="6.8035712"
+       y="61.70982" />
+    <g
+       aria-label="name"
+       transform="matrix(0.26458333,0,0,0.26458333,-15.137203,1029.4886)"
+       style="font-style:normal;font-weight:normal;font-size:125.98425293px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4c4018;fill-opacity:1;stroke:none"
+       id="flowRoot7078">
+      <path
+         d="m 67.723287,251.27522 q 2.583661,0 12.672244,34.57185 1.414862,7.87402 11.564961,38.81644 h -2.03002 v -0.86122 q -1.414862,-29.89666 -1.414862,-33.5876 0,-1.10728 0.307579,-7.50492 -0.06152,-0.67667 -0.06152,-2.95276 0.492126,-4.85974 0.492126,-7.68947 v -17.53198 q 0.307579,-2.58367 3.32185,-2.58367 l 2.583662,1.35335 q -0.738189,14.57923 -0.738189,21.59203 v 6.95128 q 0,21.40748 1.353346,55.91781 l -2.46063,1.23032 q -3.075787,0 -19.377461,-55.48721 l -6.459153,-22.02263 2.276083,3.69094 0.184547,-3.56791 q 0.43061,5.1058 0.43061,8.12008 l 0.06152,2.09153 q -0.492126,13.6565 -0.492126,19.1314 0,27.49754 2.214567,46.62894 h -3.075788 q -2.89124,0 -2.89124,-2.58367 -1.414862,-21.46899 -1.414862,-38.44734 v -42.69193 q 0.43061,-2.58366 2.952756,-2.58366 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:125.98425293px;font-family:'Moon Flower Bold';-inkscape-font-specification:'Moon Flower Bold, ';fill:#4c4018;fill-opacity:1"
+         id="path7133"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 116.93588,252.25947 h 0.61516 q 4.42914,2.03002 7.07431,9.59646 6.88977,21.28445 10.1501,54.25689 2.15305,10.70374 2.15305,19.06988 -0.73819,1.84547 -4.24458,1.84547 -1.47638,-2.82972 -3.44489,-20.60777 -0.55364,-1.90699 -2.33759,-15.44045 l -0.55365,-0.0615 q -11.68799,1.10728 -11.68799,1.47638 v 9.59645 l -1.66092,22.51477 q 0.55364,0.7997 0.55364,1.84547 0,1.04577 -2.15305,2.3376 -4.18307,0 -4.18307,-3.99852 1.90698,-25.95965 1.90698,-31.12697 -0.24606,-3.38337 -0.24606,-6.88977 0.12303,-17.77805 2.95276,-37.64763 1.41486,-6.76674 5.1058,-6.76674 z m 1.10729,6.33613 q -3.13731,12.05708 -3.13731,35.00246 -0.24606,0 -0.24606,4.73671 v -0.92274 q 5.96703,-1.66092 11.87254,-1.66092 v 0.92273 q 0,-7.38189 -8.12008,-35.24852 -1.53789,-3.32185 -0.36909,-2.82972 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:125.98425293px;font-family:'Moon Flower Bold';-inkscape-font-specification:'Moon Flower Bold, ';fill:#4c4018;fill-opacity:1"
+         id="path7135"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 153.90684,250.84461 q 2.89124,0.92274 17.10138,39.55463 h -2.03002 q 0,-1.59941 12.54921,-38.01674 h 2.95276 l 1.10728,2.15306 0.0615,2.70669 q -0.67667,22.02264 -0.67667,37.21703 0,5.84399 2.21456,42.93799 l -2.64517,1.29183 q -3.32185,0 -4.79823,-41.33858 v -28.85089 h 2.03002 q -8.73524,27.12845 -10.64223,28.66634 -3.937,-0.24606 -15.31742,-32.29577 h 1.90699 v -0.49212 l 3.62943,71.54281 -2.52215,1.35335 q -3.44488,0 -3.44488,-2.7067 -2.15305,-64.28395 -4.36762,-82.24655 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:125.98425293px;font-family:'Moon Flower Bold';-inkscape-font-specification:'Moon Flower Bold, ';fill:#4c4018;fill-opacity:1"
+         id="path7137"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 208.90194,251.33674 0.55364,0.30758 q -1.72244,0 -1.72244,-0.3691 10.9498,0.98425 10.9498,3.07579 v 0.43061 q -0.79971,2.27608 -2.89124,2.27608 l -7.13583,-0.73819 q -0.49212,0 -3.1373,0.18455 l 0.12303,1.72244 q 0,4.06004 1.1688,31.31152 h 0.24606 q 1.78396,0 3.07579,-0.24607 5.78248,0.49213 9.10433,0.49213 l 1.41486,1.90699 v 1.04577 q 0,1.9685 -2.52214,1.9685 -2.21457,0 -7.13583,-0.49213 -3.26033,0.24607 -4.12155,0.24607 v -0.24607 q 0,17.34744 1.66092,38.87796 0.30758,0 0.30758,0.18454 7.68947,-0.43061 9.84252,-0.43061 1.90699,0.61516 2.70669,2.21457 v 0.49213 q 0,0.98425 -1.9685,2.21456 -9.78101,0.24607 -11.74951,0.49213 -4.61368,0 -4.61368,-4.36762 -1.72244,-23.49901 -1.72244,-39.18553 v -7.87402 q -1.23032,-21.65354 -1.23032,-29.15846 -0.73819,-3.69095 -0.73819,-4.61368 l 1.90699,-1.41486 h 3.32185 q 1.35335,0 4.30611,-0.30758 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:125.98425293px;font-family:'Moon Flower Bold';-inkscape-font-specification:'Moon Flower Bold, ';fill:#4c4018;fill-opacity:1"
+         id="path7139"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
