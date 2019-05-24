@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="762b8c5b-f72c-4784-966b-9b1b95b682cc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/html/desktop/otherinfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/desktop/otherinfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html/mobile/otherinfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/mobile/otherinfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/svg/OtherInfo_Blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/svg/OtherInfo_Blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/svg/OtherInfo_Yellow.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/svg/OtherInfo_Yellow.svg" afterDir="false" />
-    </list>
+    <list default="true" id="762b8c5b-f72c-4784-966b-9b1b95b682cc" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -76,8 +71,8 @@
       <file leaf-file-name="otherinfo.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/html/mobile/otherinfo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="40" column="72" lean-forward="true" selection-start-line="40" selection-start-column="72" selection-end-line="40" selection-end-column="72" />
+            <state relative-caret-position="218">
+              <caret line="31" column="72" selection-start-line="31" selection-start-column="72" selection-end-line="31" selection-end-column="72" />
               <folding>
                 <element signature="e#881#900#0" expanded="true" />
                 <element signature="e#3741#3760#0" expanded="true" />
@@ -272,7 +267,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="938" />
     <option name="height" value="1088" />
@@ -464,15 +459,15 @@
       <workItem from="1553880769642" duration="673000" />
       <workItem from="1553943603045" duration="11568000" />
       <workItem from="1554031337771" duration="1323000" />
-      <workItem from="1556031012456" duration="6652000" />
+      <workItem from="1556031012456" duration="7387000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="188970000" />
+    <option name="totallyTimeSpent" value="189705000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1488" height="878" extended-state="7" />
+    <frame x="-7" y="-7" width="1488" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18860245" />
@@ -811,8 +806,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/html/mobile/otherinfo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="40" column="72" lean-forward="true" selection-start-line="40" selection-start-column="72" selection-end-line="40" selection-end-column="72" />
+        <state relative-caret-position="218">
+          <caret line="31" column="72" selection-start-line="31" selection-start-column="72" selection-end-line="31" selection-end-column="72" />
           <folding>
             <element signature="e#881#900#0" expanded="true" />
             <element signature="e#3741#3760#0" expanded="true" />
