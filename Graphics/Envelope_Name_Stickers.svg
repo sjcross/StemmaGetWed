@@ -15,9 +15,9 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    width="37mm"
    height="37mm"
-   inkscape:export-filename="D:\Documents Stephen\Programming\HTML Projects\StemmaGetWed\Graphics\Newdate_Stickers.png"
-   inkscape:export-xdpi="200"
-   inkscape:export-ydpi="200">
+   inkscape:export-filename="D:\Stephen\Programming\HTML Projects\StemmaGetWed\Graphics\Envelope_Name_Stickers.png"
+   inkscape:export-xdpi="400.22165"
+   inkscape:export-ydpi="400.22165">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -32,9 +32,9 @@
      id="namedview2792"
      showgrid="false"
      inkscape:zoom="1.84375"
-     inkscape:cx="301.34741"
+     inkscape:cx="125.61859"
      inkscape:cy="53.729505"
-     inkscape:window-x="54"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg8"
@@ -78,7 +78,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -86,52 +86,38 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.5;font-family:'Run to the Hills Personal Use';-inkscape-font-specification:'Run to the Hills Personal Use';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      id="flowRoot1497" />
   <g
-     id="g878"
-     transform="translate(-2.564322,5.9567099e-5)">
-    <rect
-       style="opacity:0.15;fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:0.39059901;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect2293"
-       width="132.28346"
-       height="132.28346"
-       x="6.3438506"
-       y="3.7795281" />
-    <rect
-       y="3.7794099"
-       x="6.3438506"
-       height="132.28346"
-       width="132.28346"
-       id="rect2293-0"
-       style="opacity:0.15;fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:0.39059901;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     id="g842"
+     transform="translate(3.941218e-7,-4.1089958)">
     <text
        id="text854"
-       y="42.623428"
-       x="71.844955"
+       y="42.623489"
+       x="69.280632"
        style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#18394c;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:0.75;font-family:'Moon Flower Bold';-inkscape-font-specification:'Moon Flower Bold, ';text-align:center;text-anchor:middle;fill:#18394c;fill-opacity:1"
-         y="42.623428"
-         x="75.813705"
+         y="42.623489"
+         x="73.249382"
          id="tspan852"
          sodipodi:role="line">stephen </tspan><tspan
          id="tspan866"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:0.75;font-family:'Moon Flower Bold';-inkscape-font-specification:'Moon Flower Bold, ';text-align:center;text-anchor:middle;fill:#18394c;fill-opacity:1"
-         y="70.712082"
-         x="75.813705"
+         y="70.712143"
+         x="73.249382"
          sodipodi:role="line">and </tspan><tspan
          id="tspan868"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:0.75;font-family:'Moon Flower Bold';-inkscape-font-specification:'Moon Flower Bold, ';text-align:center;text-anchor:middle;fill:#18394c;fill-opacity:1"
-         y="98.800735"
-         x="71.844955"
+         y="98.800797"
+         x="69.280632"
          sodipodi:role="line">gemma</tspan></text>
     <text
        id="text858"
-       y="128.67654"
-       x="14.676337"
+       y="128.67661"
+       x="12.112015"
        style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#18394c;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Moon Flower Bold';-inkscape-font-specification:'Moon Flower Bold, ';fill:#18394c;fill-opacity:1"
-         y="128.67654"
-         x="14.676337"
+         y="128.67661"
+         x="12.112015"
          id="tspan856"
          sodipodi:role="line">www.stemmagetwed.uk</tspan></text>
   </g>
